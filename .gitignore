@@ -1,0 +1,6 @@
+.vagrant/
+*/logs
+*/*.log
+.vagrant/
+*/logs
+*/*.log
